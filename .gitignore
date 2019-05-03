@@ -1,0 +1,32 @@
+HELP.md
+/target/
+!reactive/.mvn/wrapper/maven-wrapper.jar
+reactive/.mvn/*
+reactive/.attach*
+
+### STS ###
+reactive/.apt_generated
+reactive/.classpath
+reactive/.factorypath
+reactive/.project
+reactive/.settings
+reactive/.springBeans
+reactive/.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+reactive/nbproject/private/
+reactive/nbbuild/
+reactive/dist/
+reactive/nbdist/
+reactive/.nb-gradle/
+reactive/build/
+
+### VS Code ###
+.vscode/
+
